@@ -101,21 +101,21 @@ div.list{
 ul.inside{list-style-type: none;
 }
 
-table.results{
+table{
     margin-top: 10px;
     font-family:verdana;
     width: 960px;
     border-collapse: collapse;
     width: 100%;
 	}
-th.results, td.results {
+th, td{
     text-align: left;
     padding: 8px;
 }
 
-tr.results:nth-child(even){background-color: #f2f2f2}
+tr:nth-child(even){background-color: #f2f2f2}
 
-th.results {
+th{
     background-color: blueviolet;
     color: white;
 }
