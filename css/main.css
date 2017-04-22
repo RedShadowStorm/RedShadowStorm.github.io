@@ -1,7 +1,7 @@
 
 body{
     width:960px;
-    background-image: url("../images/squiggles.png");
+    background-image: url("/assets/squiggles.png");
     background-repeat:repeat;
     background-attachment:fixed;
     margin-top: 0;
